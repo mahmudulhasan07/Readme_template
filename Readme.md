@@ -55,3 +55,33 @@ head{
 - [x] Task1
 - [x] Task2
 - [x] Task3
+
+<br/>
+
+### Automatic link
+http://www.studywithanis.com
+
+### disable link
+`http://www.studywithanis.com`
+
+### Markdown link syntax
+[studyanis](http://www.studywithanis.com)
+
+[study][weblink]
+
+[google][google]
+<!--link er nam diye link set korle then oi nam usekorei link access kora jabe-->
+[weblink]:http://www.studywithanis.com
+[google]: http://www.google.com
+
+### Image syntax
+<!--markdown syntax=>  ![Photo](./images/citto.jpg)-->
+
+<img src="./images/citto.jpg" width="400" title="mew"/>
+😀
+
+### Table syntex
+| Name | Email |
+| --- | ---- |
+|Mhmudul| mhrico@gmail.com|
+|Elahan | elahan@gmail.com|
